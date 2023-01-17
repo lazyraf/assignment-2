@@ -57,7 +57,7 @@ nav>ul{
     list-style: none;
     gap: 20px;
 }
-.fa-bars{
+.bar{
     display: none;
     /* visibility:collapse; */
 }
@@ -218,7 +218,7 @@ nav>ul{
     nav>ul{
         display: none;
     }
-    .fa-bars{
+    .bar{
         display: block;
     }
     .quick-feature{
